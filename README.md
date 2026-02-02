@@ -2,8 +2,13 @@
 <h3 align="center">Software Engineer | AI + Backend | Builder Mindset 🚀</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
+  <img 
+    src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"
+    width="400"
+    height="100"
+  >
 </p>
+
 
 ---
 
