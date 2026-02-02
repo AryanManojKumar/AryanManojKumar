@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Aryan Singh</h1>
-<h3 align="center">Software Engineer | AI + Backend | Builder Mindset 🚀</h3>
+<h3 align="center">Software Engineer | AI + Backend |  🚀</h3>
 
 <p align="center">
   <img 
@@ -39,12 +39,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanmanojkumar)](https://github.com/anuraghazra/github-readme-stats)
-
-
----
 
 
 ## 💻 Terminal Mode
@@ -64,3 +58,16 @@ Ship > Perfect
 
 > fun_fact
 Debugging at 2 AM hits different ☕
+
+```
+
+## 🕹️ My Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AryanManojKumar/AryanManojKumar/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AryanManojKumar/AryanManojKumar/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/AryanManojKumar/AryanManojKumar/output/pacman-contribution-graph.svg">
+</picture>
