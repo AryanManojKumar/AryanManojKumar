@@ -2,14 +2,14 @@
 <h3 align="center">Software Engineer | AI + Backend | Builder Mindset 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=I+build+things+that+ship.;AI+%7C+Backend+%7C+Cloud;Final+Year+Engineering+Student;Learning+Every+Day&center=true&width=520&height=45">
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Final-year Computer Engineering student  
+- 🎓 Ai Engineer   
 - 🧩 Love building **real-world products**, not just college demos  
 - 🤖 Working with **AI agents, backend systems & cloud**
 - 🚀 Startup mindset — *ship fast, learn faster*
@@ -32,35 +32,12 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏋️ Smart Gym Exercise Recommender
-AI-powered app that recommends exercises based on:
-- available gym equipment  
-- target muscle group  
-
-**Tech:** React, FastAPI, AI APIs  
-**Goal:** Make gym training beginner-friendly  
-
----
-
-### 🤖 AI Agent Workflow System
-Multi-agent backend system with:
-- agent-to-agent communication  
-- orchestration & tool calling  
-
-**Focus:** AI automation + scalable backend design  
-
----
-
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanmanojkumar)](https://github.com/aryanmanojkumar/github-readme-stats)
 
 ---
+
 
 ## 💻 Terminal Mode
 
