@@ -41,7 +41,8 @@
 
 ## 📊 GitHub Stats
 
-[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanmanojkumar)](https://github.com/aryanmanojkumar/github-readme-stats)
+[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanmanojkumar)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
